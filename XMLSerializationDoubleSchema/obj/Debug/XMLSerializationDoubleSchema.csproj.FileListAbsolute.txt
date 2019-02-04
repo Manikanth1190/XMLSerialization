@@ -1,0 +1,7 @@
+C:\Users\kmanikanth.MHF2\Personal Git\XMLSerializationDoubleSchema\XMLSerializationDoubleSchema\bin\Debug\XMLSerializationDoubleSchema.exe.config
+C:\Users\kmanikanth.MHF2\Personal Git\XMLSerializationDoubleSchema\XMLSerializationDoubleSchema\bin\Debug\XMLSerializationDoubleSchema.exe
+C:\Users\kmanikanth.MHF2\Personal Git\XMLSerializationDoubleSchema\XMLSerializationDoubleSchema\bin\Debug\XMLSerializationDoubleSchema.pdb
+C:\Users\kmanikanth.MHF2\Personal Git\XMLSerializationDoubleSchema\XMLSerializationDoubleSchema\obj\Debug\XMLSerializationDoubleSchema.csprojResolveAssemblyReference.cache
+C:\Users\kmanikanth.MHF2\Personal Git\XMLSerializationDoubleSchema\XMLSerializationDoubleSchema\obj\Debug\XMLSerializationDoubleSchema.csproj.CoreCompileInputs.cache
+C:\Users\kmanikanth.MHF2\Personal Git\XMLSerializationDoubleSchema\XMLSerializationDoubleSchema\obj\Debug\XMLSerializationDoubleSchema.exe
+C:\Users\kmanikanth.MHF2\Personal Git\XMLSerializationDoubleSchema\XMLSerializationDoubleSchema\obj\Debug\XMLSerializationDoubleSchema.pdb
